@@ -19,7 +19,7 @@ This is the beginning of an HTML document. It includes a <head> section where yo
 ![image](https://github.com/neelay-16/Javascript-Speech-to-text/assets/135517502/37a4787b-168c-42d0-bbc9-ae32bc920cac)
 
 
-This is an <h1> heading that serves as the main title of the web page, indicating that this page is for a "Voice to Text Converter."
+This is an title that serves as the main title of the web page, indicating that this page is for a "Voice to Text Converter."
 
 ![image](https://github.com/neelay-16/Javascript-Speech-to-text/assets/135517502/eb2e826d-da23-4111-950d-301ea58fb86c)
 
