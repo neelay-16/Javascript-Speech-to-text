@@ -1,7 +1,7 @@
 # Javascript-Speech-to-text
 Welcome to the Voice to Text Converter project! This simple web application allows you to convert spoken words into text using your device's microphone. It's a fun and practical tool that can be easily integrated into your web applications. Let's get started!
 
-# Preview
+# Preview   
 
 https://github.com/neelay-16/Javascript-Speech-to-text/assets/135517502/8567f077-2ae1-420f-87df-3f2ffa84a525
 
